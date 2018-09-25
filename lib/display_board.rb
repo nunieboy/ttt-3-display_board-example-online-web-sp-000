@@ -2,7 +2,7 @@
 def display_board
   puts "   |   |   
         ___________
-           |   |   
+           |   |
         ___________
            |   |   "
 end
